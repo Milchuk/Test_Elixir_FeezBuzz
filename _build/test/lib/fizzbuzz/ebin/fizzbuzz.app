@@ -1,5 +1,5 @@
 {application,fizzbuzz,
-             [{applications,[kernel,stdlib,elixir,logger,dialyxir]},
+             [{applications,[kernel,stdlib,elixir,logger]},
               {description,"fizzbuzz"},
               {modules,['Elixir.FizzBuzz','Elixir.MySupervisor']},
               {registered,[]},
